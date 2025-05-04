@@ -1,0 +1,4 @@
+name: deVaultify
+version: 0.0.1-SNAPSHOT
+main: com.partakith.deVaultify
+api-version: 1.18
