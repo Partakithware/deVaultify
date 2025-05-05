@@ -10,7 +10,7 @@ The management systems are separate so vault currency is not deVault related;
 
 The API is set to recieve updates, I will be attempting to think of new things I would like to add (or is requested) and fix it up more and more over time.
 
-Example Usage for a creating a basic ecnonomy using deVaultify v0.0.4 (SNAPSHOT 0.0.1) (Github was giving me trouble so I had to update version number)
+Example Usage for a creating a basic economy using deVaultify v0.0.4 (SNAPSHOT 0.0.1) (Github was giving me trouble so I had to update version number)
 
 
 In your plugins POM:
