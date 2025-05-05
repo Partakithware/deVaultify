@@ -1,5 +1,11 @@
-The goal was to make a simple economy only non vault plugin that uses yml. This is so that other plugins could hook into it instead of relying on vault.
+The goal was to make a simple economy only non vault plugin that uses yml. 
+
+This is so that other plugins could hook into it instead of relying on vault.
+
+Another goal was also to make the use case, simple and easy to utilize.
+
 I imagine vault could be ran alongside this...but I highly recommend you don't try such unless you need to. 
+
 The management systems are separate so vault currency is not deVault related;
 
 The API is set to recieve updates, I will be attempting to think of new things I would like to add (or is requested) and fix it up more and more over time.
